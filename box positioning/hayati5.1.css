@@ -1,0 +1,28 @@
+ 
+ .row {
+  
+    margin: auto;
+}
+
+.kolom {
+    width: 20%;
+    height: 600px;
+    float: left;
+    margin: 25px;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.red {
+    background-color: red;
+}
+
+.lightgreen {
+    background-color: lightgreen;
+}
+
+.lightblue {
+    background-color: lightblue;
+}
